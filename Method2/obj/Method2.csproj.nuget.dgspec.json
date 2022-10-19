@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\heath\\OneDrive\\Desktop\\repos\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj": {}
+    "C:\\Users\\heath\\source\\repos\\Method2\\Method2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\heath\\OneDrive\\Desktop\\repos\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj": {
+    "C:\\Users\\heath\\source\\repos\\Method2\\Method2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\heath\\OneDrive\\Desktop\\repos\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj",
-        "projectName": "MethodsExercise",
-        "projectPath": "C:\\Users\\heath\\OneDrive\\Desktop\\repos\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj",
+        "projectUniqueName": "C:\\Users\\heath\\source\\repos\\Method2\\Method2.csproj",
+        "projectName": "Method2",
+        "projectPath": "C:\\Users\\heath\\source\\repos\\Method2\\Method2.csproj",
         "packagesPath": "C:\\Users\\heath\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\heath\\OneDrive\\Desktop\\repos\\MethodsExercise\\MethodsExercise\\obj\\",
+        "outputPath": "C:\\Users\\heath\\source\\repos\\Method2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\heath\\AppData\\Roaming\\NuGet\\NuGet.Config",
